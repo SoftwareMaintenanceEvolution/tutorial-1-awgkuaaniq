@@ -4,7 +4,7 @@ Hi! I'm Aniq, a student in the Software Maintenance and Evolution course.
 
 ![My Image](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-awgkuaaniq/blob/profile-upload/WhatsApp%20Image%202024-10-09%20at%201.09.08%20AM.jpeg)
 
-I expect to learn a lot about modern software maintenance practices and how to work with legacy systems. 
+I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
 
 **Fun fact**: 
 
